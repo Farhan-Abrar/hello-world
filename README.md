@@ -2,10 +2,9 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Guy</title>
  </head>
  <body>
-  <p>I know a guy who knows a guy who knows a guy who knows another guy</p>  
+  <p>I know a guy who knows a guy who knows a guy who knows another guy(haha kidding XD)</p>  
  </body>
 </html>
 
